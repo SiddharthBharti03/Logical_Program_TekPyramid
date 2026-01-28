@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/Logical_Program_TekPyramid" vcs="Git" />
+>>>>>>> 332ad4e (First Commit Project)
   </component>
 </project>
